@@ -1,0 +1,27 @@
+##this is a random generated file
+
+
+
+
+enable.vanityRedirect = true
+enable.Mail = true
+enable.Twitter = true
+enable.FacebookConnect = true
+enable.Recommendations = true
+enable.RestApi = true
+restapi.allowLoginAuthenticationUsingSessionCookie = true
+restapi.allowGetAccessToPostMethods = true
+restapi.enableModifyForUserFromSessionCookie = true
+enable.Mobile = false
+enable.Contests = true
+enable.Achievements = true
+enable.Sitemap      = true
+enable.MondrianSkin = true
+enable.Tagging = false
+enable.ModBar = true
+enable.ReasonBox    = true
+enable.OpenGraph = true
+
+enable.GroupHubs   = true
+enable.Memberships = true
+enable.NodeAvatars = true
